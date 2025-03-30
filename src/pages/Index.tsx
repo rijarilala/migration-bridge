@@ -103,7 +103,10 @@ const Index = () => {
       <Hero
         title="Votre partenaire pour un nouveau départ"
         subtitle="Nous vous accompagnons dans toutes vos démarches d'immigration, de formation et d'intégration professionnelle."
-       
+        ctaText="Tester mon éligibilité"
+        ctaLink="/eligibility"
+        secondaryCtaText="Nos services"
+        secondaryCtaLink="/services"
         imageSrc="https://images.unsplash.com/photo-1524569970261-f3b491d7933b?auto=format&fit=crop&w=2000&q=80"
       />
 
